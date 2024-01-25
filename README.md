@@ -9,7 +9,7 @@
     <a href="[https://easyhomputer.tistory.com](https://2hy2on.tistory.com/)">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com)
 
  
 ## 📞 Contact 📞
