@@ -9,15 +9,7 @@
     <a href="[https://easyhomputer.tistory.com](https://2hy2on.tistory.com/)">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com/)
-</div><br>
+
 
  
 ## 📞 Contact 📞
