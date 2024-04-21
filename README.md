@@ -12,7 +12,6 @@
    
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=2hy2on&theme=default)](https://github.com/loosie/github-readme-tistory-card)
 </div><br>
 
 
