@@ -14,7 +14,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com)
 </div><br>
 -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=radical)
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
