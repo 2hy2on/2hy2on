@@ -14,8 +14,12 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com)
 </div><br>
 -->
+## 📊 Git Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=radical)
- 
+
+## 💻 Most Used Languages 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:mashin0128@gmail.com">
@@ -23,7 +27,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
