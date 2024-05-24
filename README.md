@@ -3,16 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Ihyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
 <br>
-<!--
- <div style="display:flex; flex-direction:row;">
-    <a href="https://2hy2on.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-   
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=2hy2on&theme=default)](https://2hy2on.tistory.com)
-</div><br>
--->
+
 ## 📊 Git Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=radical)
 
