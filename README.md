@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 sds 아직-->
 
-<!--## 📑 Blog 📑
+## 📑 Blog 📑
 <div style="display:flex; flex-direction:row;">
     <a href="https://2hy2on.tistory.com/">
      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FF7200">
