@@ -4,22 +4,26 @@
 
 <br>
 
+## 👤 About Me 👤
+
+Hi! I'm **Ihyeon**, a Computer Science graduate currently studying **Cyber Security** in the UK.  
+I'm interested in **Cloud Security** and enjoy learning new security tools and technologies.
+
+I'm always exploring ways to build safer and more secure systems! 🔐
+
+<br>
+
 ## 📊 Git Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=radical)
 
-<!--## 💻 Most Used Languages 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-sds 아직-->
+<br>
+
 ## 📑 Blog 📑
 <div style="display:flex; flex-direction:row;">
     <a href="https://2hy2on.tistory.com/">
      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FF7200">
     </a>
 </div><br>
-
-<!---->
-<!---->
-
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
