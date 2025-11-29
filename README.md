@@ -14,7 +14,7 @@ I'm always exploring ways to build safer and more secure systems! 🔐
 <br>
 
 ## 📊 Git Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=radical)
+![Ihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/2hy2on/github-readme-stats)
 
 <br>
 
