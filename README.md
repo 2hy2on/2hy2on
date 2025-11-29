@@ -11,7 +11,7 @@ I'm interested in **Cloud Security** and enjoy learning new security tools and t
 
 I'm always exploring ways to build safer and more secure systems! 🔐
 
-<br>
+<!-- <br>
 
 ## 📊 Git Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +23,7 @@ I'm always exploring ways to build safer and more secure systems! 🔐
     <a href="https://2hy2on.tistory.com/">
      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FF7200">
     </a>
-</div><br>
+</div><br> -->
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
