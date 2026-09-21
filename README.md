@@ -49,10 +49,10 @@ Always exploring ways to build safer, more resilient systems.
 
 <br>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 [![Ihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hy2on&show_icons=true&theme=tokyonight)](https://github.com/2hy2on)
-
+-->
 <br>
 
 </div>
